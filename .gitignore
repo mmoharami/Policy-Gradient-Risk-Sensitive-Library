@@ -5,7 +5,6 @@
 *.out
 *.fls
 *.fdb_latexmk
-
 **/desktop.ini
 **__pycache**
 **/.ipynb_checkpoints
